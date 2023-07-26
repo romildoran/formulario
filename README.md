@@ -1,6 +1,6 @@
 # Formulario de Login - Documentación
 
-¡Hola! Soy un desarrollador y he creado este proyecto de un formulario de login de usuario. El proyecto consiste en dos archivos: `index.html` y `style.css`. A continuación, te proporciono una descripción detallada de cada uno de ellos:
+¡Hola! Soy Ronald Duarte, estoy practicando para ser desarrollador y he creado este proyecto de un formulario de login de usuario. El proyecto consiste en dos archivos: `index.html` y `style.css`. A continuación, proporciono una descripción detallada de cada uno de ellos:
 
 ## Archivo `index.html`
 
